@@ -1,0 +1,6 @@
+Name: Sasith
+Password: 12345
+DOB: 07/01/2003
+Address: no.12,Rajawatta
+Number: 0772864241
+-------------------------------------

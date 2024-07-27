@@ -1,0 +1,12 @@
+Name: Pasindu
+Password: 12345
+DOB: 07/12/2001
+Address: no.184,Kalutara
+Number: 0710682595
+-------------------------------------
+Name: Pasindu
+Password: 12345
+DOB: 07/12/2001
+Address: no.184,Kalutara
+Number: 0710682595
+-------------------------------------
